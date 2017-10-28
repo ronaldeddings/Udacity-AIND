@@ -1,0 +1,18 @@
+[submodule "AIND-Recognizer"]
+	path = AIND-Recognizer
+	url = https://github.com/ronmajic/AIND-Recognizer
+[submodule "AIND-Sudoku"]
+	path = AIND-Sudoku
+	url = https://github.com/ronmajic/AIND-Sudoku
+[submodule "AIND-Simulated_Annealing"]
+	path = AIND-Simulated_Annealing
+	url = https://github.com/ronmajic/AIND-Simulated_Annealing
+[submodule "AIND-Search"]
+	path = AIND-Search
+	url = https://github.com/ronmajic/AIND-Search
+[submodule "AIND-Planning"]
+	path = AIND-Planning
+	url = https://github.com/ronmajic/AIND-Planning
+[submodule "AIND-Isolation"]
+	path = AIND-Isolation
+	url = https://github.com/ronmajic/AIND-Isolation
